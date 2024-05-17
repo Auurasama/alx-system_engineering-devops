@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lpaf --format=commas
+ls -lpafv --format=commas
